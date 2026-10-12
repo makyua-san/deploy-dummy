@@ -1,0 +1,11 @@
+{
+  "name": "deploy-dummy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dummy app for platform deploy verification (no dependencies).",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-check.mjs",
+    "start": "node server.mjs"
+  }
+}
