@@ -1,1 +1,1 @@
-{ "version": "H", "mode": "build-fail" }
+{ "version": "I", "mode": "exit-early" }
